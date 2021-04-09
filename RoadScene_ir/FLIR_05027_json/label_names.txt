@@ -1,0 +1,15 @@
+_background_
+sky
+tree
+car
+bicyclist
+road
+pavement
+grass
+fence
+pedestrian
+roadsign
+building
+pole
+wire
+light
